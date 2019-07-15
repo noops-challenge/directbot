@@ -25,7 +25,7 @@ First, request a set of directions:
 }
 ```
 
-And then draw them on screen for a nice, minimal composition:
+Then draw them on screen for a nice, minimal composition:
 
 ![](https://user-images.githubusercontent.com/212941/59218324-dc4cd200-8b74-11e9-8995-b22e7fd49dd4.png)
 
